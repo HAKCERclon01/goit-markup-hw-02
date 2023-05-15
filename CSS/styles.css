@@ -1,5 +1,10 @@
+body{
+    font-family: 'Roboto';
+    color: #434455;
+    background-color: #FFFFFF;
+}
 .header_logo{
-    font-family: 'Raleway';
+    font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
@@ -270,7 +275,7 @@
 .footer{
     background: #2E2F42;
 }
-.header_logo_P{
+.header_logo_p{
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -282,7 +287,7 @@
     text-transform: uppercase;
     color: #4D5AE5; 
 }
-.header_nav_P{
+.header_nav_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -291,7 +296,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.header_address_P{
+.header_address_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -300,7 +305,7 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-.Link{
+.link{
     list-style-type: none;
 }
 .link{
@@ -315,7 +320,7 @@
 .footer_logo_p:hover{
     color: #4D5AE5;
 }
-.button_All_P{
+.button_all_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -327,7 +332,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5;
 }
-.button_Web_Site_P{
+.button_web_site_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -339,7 +344,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5; 
 }
-.button_App_P{
+.button_app_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -351,7 +356,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5;
 }
-.button_Design_P{
+.button_design_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -363,7 +368,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5;
 }
-.button_Marketing_P{
+.button_marketing_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -375,7 +380,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5;
 }
-.about_subtitle_bankingapp_P{
+.about_subtitle_bankingapp_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -384,7 +389,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_CashlessPayment_P{
+.about_subtitle_cashlesspayment_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -393,7 +398,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_MeditationApp_P{
+.about_subtitle_meditationapp_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -402,7 +407,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_TaxiService_P{
+.about_subtitle_taxiservice_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -411,7 +416,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_ScreenIllustrations_P{
+.about_subtitle_screenillustrations_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -420,7 +425,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_nlineCourses_P{
+.about_subtitle_onlinecourses_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -429,7 +434,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_InstagramStories_P{
+.about_subtitle_instagramstories_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -438,7 +443,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_OrganicFood_P{
+.about_subtitle_organicfood_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -447,7 +452,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_subtitle_FreshCoffee_P{
+.about_subtitle_freshcoffee_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -456,7 +461,7 @@
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_text_P{
+.about_text_p{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -465,31 +470,31 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-.about_bankingapp_P{
+.about_bankingapp_p{
     background: #FFFFFF;
 }
-.about_CashlessPayment_P{
+.about_xashlesspayment_p{
     background: #FFFFFF;
 }
-.about_MeditationApp_P{
+.about_meditationapp_p{
     background: #FFFFFF;
 }
-.about_TaxiService_P{
+.about_taxiservice_p{
     background: #FFFFFF;
 }
-.about_ScreenIllustrations_P{
+.about_screenillustrations_p{
     background: #FFFFFF;
 }
-.about_nlineCourses_P{
+.about_onlinecourses_p{
     background: #FFFFFF;
 }
-.about_InstagramStories_P{
+.about_instagramstories_p{
     background: #FFFFFF;
 }
-.about_OrganicFood_P{
+.about_organicfood_p{
     background: #FFFFFF;
 }
-.about_FreshCoffee_P{
+.about_freshcoffee_p{
     background: #FFFFFF;
 }
 .footer_logo_P{
