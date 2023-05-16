@@ -3,7 +3,7 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
-.header_logo{
+.header-logo{
     font-family: "Raleway";
     font-style: normal;
     font-weight: 800;
@@ -275,7 +275,7 @@ body{
 .footer{
     background: #2E2F42;
 }
-.header_logo_p{
+.header-logo-p{
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -473,7 +473,7 @@ body{
 .about_bankingapp_p{
     background: #FFFFFF;
 }
-.about_xashlesspayment_p{
+.about_cashlesspayment_p{
     background: #FFFFFF;
 }
 .about_meditationapp_p{
@@ -502,7 +502,7 @@ body{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
     display: flex;
     align-items: center;
     letter-spacing: 0.03em;
