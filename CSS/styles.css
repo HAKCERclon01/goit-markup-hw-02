@@ -15,7 +15,7 @@ body{
     text-transform: uppercase;
     color: #4D5AE5; 
 }
-.header_nav{
+.header-nav{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -24,7 +24,7 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.header_address{
+.header-address{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -37,7 +37,7 @@ body{
     font-family: 'Roboto';
     background: #2E2F42;
 }
-.Hero_tagline{
+.Hero-tagline{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -47,7 +47,7 @@ body{
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
-.Hero_button{
+.Hero-button{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -58,7 +58,7 @@ body{
     letter-spacing: 0.04em;
     color: #FFFFFF;
 }
-.about_subtitle_Punctuality{
+.about-subtitle-Punctuality{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -67,7 +67,7 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_text_Strategy{
+.about-text-Strategy{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -76,7 +76,7 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.about_Item_Punctuality{
+.about-Item-Punctuality{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -85,7 +85,7 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_text_Punctuality{
+.about-text-Punctuality{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -94,7 +94,7 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.about_subtitle_Punctuality{
+.about-subtitle-Punctuality{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -103,7 +103,7 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.about_text_Diligence{
+.about-text-Diligence{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -112,25 +112,7 @@ body{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.about_subtitle_Diligence{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_Technologies{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_text_Technologies{
+.about-text-Diligence{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -138,8 +120,35 @@ body{
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
-}
-.aboutcan_tagline{
+    }
+    .about-subtitle-Diligence{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    }
+    .about-subtitle-Technologies{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    }
+    .about-text-Technologies{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+    }
+    .aboutcan-tagline{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
@@ -149,29 +158,29 @@ body{
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-}
-.about_img{    
+    }
+    .about-img{
     border: 1px solid #E7E9FC;
-}
-.team{
+    }
+    .team{
     background: #F4F4FD;
-}
-.team_item_MarkGuerrero{
+    }
+    .team-item-MarkGuerrero{
     background: #FFFFFF;
-}
-.team_item_TomFord{
+    }
+    .team-item-TomFord{
     background: #FFFFFF;
-}
-.team_item_CamilaGarcia{
+    }
+    .team-item-CamilaGarcia{
     background: #FFFFFF;
-}
-.team_item_DanielWilson{
+    }
+    .team-item-DanielWilson{
     background: #FFFFFF;
-}
-.team_img_MarkGuerrero{
+    }
+    .team-img-MarkGuerrero{
     mix-blend-mode: normal;
-}
-.team_subtitle_MarkGuerrero{
+    }
+    .team-subtitle-MarkGuerrero{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -180,8 +189,8 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
-}
-.team_text_MarkGuerrero{
+    }
+    .team-text-MarkGuerrero{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -190,8 +199,8 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-}
-.team_subtitle_TomFord{
+    }
+    .team-subtitle-TomFord{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -200,8 +209,8 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
-}
-.team_text_TomFord{
+    }
+    .team-text-TomFord{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -210,320 +219,340 @@ body{
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-}
-.team_subtitle_CamilaGarcia{
+    }
+    .team-subtitle-CamilaGarcia{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.team_text_CamilaGarcia{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
     line-height: 24px;
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-}
-.team_subtitle_DanielWilson{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.team_text_DanielWilson{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.footer_logo{
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;;
-}
-.footer_text{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-}
-.footer{
-    background: #2E2F42;
-}
-.header-logo-p{
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;  
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5; 
-}
-.header_nav_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.header_address_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.link{
-    list-style: none;
-}
-.link{
-    text-decoration: none;
-}
-.header_link:hover{
-    color: #4D5AE5;
-}
-.footer_logo:hover{
-    color: #4D5AE5;
-}
-.footer_logo_p:hover{
-    color: #4D5AE5;
-}
-.button_all_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #4D5AE5;
-}
-.button_web_site_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #4D5AE5; 
-}
-.button_app_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #4D5AE5;
-}
-.button_design_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #4D5AE5;
-}
-.button_marketing_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.04em;
-    color: #4D5AE5;
-}
-.about_subtitle_bankingapp_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_cashlesspayment_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_meditationapp_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_taxiservice_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_screenillustrations_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_onlinecourses_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_instagramstories_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_organicfood_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_subtitle_freshcoffee_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
-.about_text_p{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.about_bankingapp_p{
-    background: #FFFFFF;
-}
-.about_cashlesspayment_p{
-    background: #FFFFFF;
-}
-.about_meditationapp_p{
-    background: #FFFFFF;
-}
-.about_taxiservice_p{
-    background: #FFFFFF;
-}
-.about_screenillustrations_p{
-    background: #FFFFFF;
-}
-.about_onlinecourses_p{
-    background: #FFFFFF;
-}
-.about_instagramstories_p{
-    background: #FFFFFF;
-}
-.about_organicfood_p{
-    background: #FFFFFF;
-}
-.about_freshcoffee_p{
-    background: #FFFFFF;
-}
-.footer_logo_P{
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;
-}
-.footer_text_P{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-}
-.header_link:focus{
-    color: #4D5AE5;
-}
-.footer_logo:focus{
-    color: #4D5AE5;
-}
-.footer_logo_p:focus{
-    color: #4D5AE5;
-}
+    }
+    .team-subtitle-DanielWilson {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .team-text-DanielWilson {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+    
+    .footer-logo {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+    }
+    
+    .footer-text {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+    }
+    
+    .footer {
+        background: #2E2F42;
+    }
+    
+    .header-logo-p {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 21px;  
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5; 
+    }
+    
+    .header-nav-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .header-address-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+    }
+    
+    .link {
+        list-style: none;
+    }
+    
+    .link {
+        text-decoration: none;
+    }
+    
+    .header-link:hover {
+        color: #4D5AE5;
+    }
+    
+    .footer-logo:hover {
+        color: #4D5AE5;
+    }
+    
+    .footer-logo-p:hover {
+        color: #4D5AE5;
+    }
+    
+    .button-all-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+    }
+    
+    .button-web-site-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5; 
+    }
+    
+    .button-app-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+    }
+    
+    .button-design-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+    }
+    
+    .button-marketing-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #4D5AE5;
+    }
+    
+    .about-subtitle-bankingapp-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-cashlesspayment-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-meditationapp-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-taxiservice-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-screenillustrations-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-onlinecourses-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-instagramstories-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    
+    .about-subtitle-organicfood-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+    }
+    .about-subtitle-freshcoffee-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+        }
+    
+        .about-text-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #434455;
+        }
+      
+        .about-bankingapp-p {
+        background: #FFFFFF;
+        }
+      
+        .about-cashlesspayment-p {
+        background: #FFFFFF;
+        }
+       
+        .about-meditationapp-p {
+        background: #FFFFFF;
+        }
+       
+        .about-taxiservice-p {
+        background: #FFFFFF;
+        }  
+        .about-screenillustrations-p {
+        background: #FFFFFF;
+        }
+        .about-onlinecourses-p {
+        background: #FFFFFF;
+        }   
+        .about-instagramstories-p {
+        background: #FFFFFF;
+        }  
+        .about-organicfood-p {
+        background: #FFFFFF;
+        }   
+        .about-freshcoffee-p {
+        background: #FFFFFF;
+        }   
+        .footer-logo-p {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4D5AE5;
+        }  
+        .footer-text-p {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        color: #F4F4FD;
+        }
+        .header-link:focus {
+        color: #4D5AE5;
+        }  
+        .footer-logo:focus {
+        color: #4D5AE5;
+        }   
+        .footer-logo-p:focus {
+        color: #4D5AE5;
+    }
