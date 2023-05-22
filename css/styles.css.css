@@ -1,27 +1,28 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
+
 :root {
   color: #2e2f42;
-  color: #4d5ae5;
-  color: #434455;
-  color: #ffffff;
   font-family: "Roboto";
   font-family: "Raleway";
 }
+
 .header-logo {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.3em;
+  line-height: 1.17em;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
 }
+
 .header-nav {
   font-family: "Roboto";
   font-style: normal;
@@ -31,6 +32,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .header-address {
   font-family: "Roboto";
   font-style: normal;
@@ -40,11 +42,13 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Hero {
+
+.hero {
   font-family: "Roboto";
   background: #2e2f42;
 }
-.Hero-tagline {
+
+.hero-tagline {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -54,7 +58,8 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.Hero-button {
+
+.hero-button {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -65,7 +70,8 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.about-subtitle-Punctuality {
+
+.about-subtitle-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -74,6 +80,17 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.about-subtitle-punctuality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
 .about-text-Strategy {
   font-family: "Roboto";
   font-style: normal;
@@ -83,6 +100,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .about-Item-Punctuality {
   font-family: "Roboto";
   font-style: normal;
@@ -92,6 +110,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .about-text-Punctuality {
   font-family: "Roboto";
   font-style: normal;
@@ -101,6 +120,46 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.about-subtitle-punctuality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.about-text-Strategy {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.about-Item-Punctuality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.about-text-Punctuality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .about-subtitle-Punctuality {
   font-family: "Roboto";
   font-style: normal;
@@ -110,6 +169,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .about-text-Diligence {
   font-family: "Roboto";
   font-style: normal;
@@ -119,15 +179,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-text-Diligence {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+
 .about-subtitle-Diligence {
   font-family: "Roboto";
   font-style: normal;
@@ -137,6 +189,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .about-subtitle-Technologies {
   font-family: "Roboto";
   font-style: normal;
@@ -146,6 +199,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .about-text-Technologies {
   font-family: "Roboto";
   font-style: normal;
@@ -155,6 +209,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .aboutcan-tagline {
   font-family: "Roboto";
   font-style: normal;
@@ -166,27 +221,35 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
 .about-img {
   border: 1px solid #e7e9fc;
 }
+
 .team {
   background: #f4f4fd;
 }
+
 .team-item-MarkGuerrero {
   background: #ffffff;
 }
+
 .team-item-TomFord {
   background: #ffffff;
 }
+
 .team-item-CamilaGarcia {
   background: #ffffff;
 }
+
 .team-item-DanielWilson {
   background: #ffffff;
 }
+
 .team-img-MarkGuerrero {
   mix-blend-mode: normal;
 }
+
 .team-subtitle-MarkGuerrero {
   font-family: "Roboto";
   font-style: normal;
@@ -197,6 +260,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .team-text-MarkGuerrero {
   font-family: "Roboto";
   font-style: normal;
@@ -207,6 +271,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team-subtitle-TomFord {
   font-family: "Roboto";
   font-style: normal;
@@ -217,6 +282,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .team-text-TomFord {
   font-family: "Roboto";
   font-style: normal;
@@ -227,6 +293,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team-subtitle-CamilaGarcia {
   font-family: "Roboto";
   font-style: normal;
@@ -237,6 +304,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team-text-CamilaGarcia {
   font-family: "Roboto";
   font-style: normal;
@@ -247,6 +315,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .team-subtitle-DanielWilson {
   font-family: "Roboto";
   font-style: normal;
@@ -281,7 +350,6 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-
 .footer-text {
   font-family: "Roboto";
   font-style: normal;
@@ -296,17 +364,16 @@ body {
   background: #2e2f42;
 }
 
-body{
-    font-family: "Roboto", sans-serif
+body {
+  font-family: "Roboto", sans-serif;
 }
+
 .header-logo-p {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.3em;
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -334,9 +401,6 @@ body{
 
 .link {
   list-style: none;
-}
-
-.link {
   text-decoration: none;
 }
 
@@ -353,7 +417,7 @@ body{
 }
 
 .button-all-p {
-    font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
