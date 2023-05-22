@@ -13,7 +13,7 @@ span{
   color: #2e2f42 ;
   text-decoration: none;
 }
-.header-logo {
+.logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -25,12 +25,45 @@ span{
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.header-link{
+.studio{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42 
+}
+.contacts{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42 
+}
+.portfolio{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42 
+}
+
+.studio:hover{
+  color: #404bbf;
+}
+.studio:focus{
+  color: #404bbf 
+}
+.portfolio:hover{
+  color: #404bbf;
+}
+.portfolio:focus{
+  color: #404bbf 
+}
+.contacts:hover{
+  color: #404bbf;
+}
+.contacts:focus{
+  color: #404bbf 
 }
 .header-nav {
   font-family: "Roboto";
@@ -49,12 +82,27 @@ span{
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 0.02em;
-  color: #434455;
+  color:#434455;
 }
 
+.header-link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color:#434455;
+}
 .hero {
   font-family: "Roboto";
   background: #2e2f42;
+}
+.header-link:hover{
+  color: #404bbf;
+}
+.header-link:focus{
+  color: #404bbf 
 }
 
 .hero-tagline {
@@ -407,15 +455,14 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 .link{
-  list-style: none;
   text-decoration: none;
 }
 .list-style{
   list-style: none;
   text-decoration: none;
 }
+
 
 .link:hover {
   color: #4d5ae5;
