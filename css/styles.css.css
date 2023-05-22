@@ -3,16 +3,18 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
 :root {
   --dtext-color: #2e2f42;
   --ltext-color: #434455;
   --font-family: "Roboto";
   --font-family: "Raleway";
 }
-
+span{
+  color: #2e2f42 ;
+  text-decoration: none;
+}
 .header-logo {
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -23,7 +25,13 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-
+.header-link{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42 
+}
 .header-nav {
   font-family: "Roboto";
   font-style: normal;
@@ -400,12 +408,16 @@ body {
   color: #434455;
 }
 
-.link {
+.link-style{
+  list-style: none;
+  text-decoration: none;
+}
+.list-style{
   list-style: none;
   text-decoration: none;
 }
 
-.header-link:hover {
+.link:hover {
   color: #4d5ae5;
 }
 
