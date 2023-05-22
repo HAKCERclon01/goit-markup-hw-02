@@ -5,13 +5,14 @@ body {
 }
 
 :root {
-  color: #2e2f42;
-  font-family: "Roboto";
-  font-family: "Raleway";
+  --dtext-color: #2e2f42;
+  --ltext-color: #434455;
+  --font-family: "Roboto";
+  --font-family: "Raleway";
 }
 
 .header-logo {
-  font-family: "Raleway";
+  font-family: "Raleway" sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -91,7 +92,7 @@ body {
   color: #2e2f42;
 }
 
-.about-text-Strategy {
+.about-text-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -99,9 +100,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.about-Item-Punctuality {
+  }
+  
+  .about-item-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -109,9 +110,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-text-Punctuality {
+  }
+  
+  .about-text-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -119,8 +120,8 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-.about-subtitle-punctuality {
+  }
+  .about-subtitle-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -128,9 +129,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-text-Strategy {
+  }
+  
+  .about-text-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -138,9 +139,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.about-Item-Punctuality {
+  }
+  
+  .about-item-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -148,9 +149,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-text-Punctuality {
+  }
+  
+  .about-text-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -158,9 +159,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.about-subtitle-Punctuality {
+  }
+  
+  .about-subtitle-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -168,9 +169,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-text-Diligence {
+  }
+  
+  .about-text-diligence {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -178,9 +179,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.about-subtitle-Diligence {
+  }
+  
+  .about-subtitle-diligence {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -188,9 +189,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-subtitle-Technologies {
+  }
+  
+  .about-subtitle-technologies {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -198,9 +199,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.about-text-Technologies {
+  }
+  
+  .about-text-technologies {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -208,9 +209,9 @@ body {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.aboutcan-tagline {
+  }
+  
+  .aboutcan-tagline {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -220,37 +221,37 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-}
-
-.about-img {
+  }
+  
+  .about-img {
   border: 1px solid #e7e9fc;
-}
-
-.team {
+  }
+  
+  .team {
   background: #f4f4fd;
-}
-
-.team-item-MarkGuerrero {
+  }
+  
+  .team-item-markguerrero {
   background: #ffffff;
-}
-
-.team-item-TomFord {
+  }
+  
+  .team-item-tomford {
   background: #ffffff;
-}
-
-.team-item-CamilaGarcia {
+  }
+  
+  .team-item-camilagarcia {
   background: #ffffff;
-}
-
-.team-item-DanielWilson {
+  }
+  
+  .team-item-danielwilson {
   background: #ffffff;
-}
-
-.team-img-MarkGuerrero {
+  }
+  
+  .team-img-markguerrero {
   mix-blend-mode: normal;
-}
-
-.team-subtitle-MarkGuerrero {
+  }
+  
+  .team-subtitle-markguerrero {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -259,9 +260,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.team-text-MarkGuerrero {
+  }
+  
+  .team-text-markguerrero {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -270,9 +271,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.team-subtitle-TomFord {
+  }
+  
+  .team-subtitle-tomford {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -281,9 +282,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.team-text-TomFord {
+  }
+  
+  .team-text-tomford {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -292,9 +293,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.team-subtitle-CamilaGarcia {
+  }
+  
+  .team-subtitle-camilagarcia {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -303,9 +304,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.team-text-CamilaGarcia {
+  }
+  
+  .team-text-camilagarcia {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -314,9 +315,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-}
-
-.team-subtitle-DanielWilson {
+  }
+  
+  .team-subtitle-danielwilson {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -325,9 +326,9 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-.team-text-DanielWilson {
+  }
+  
+  .team-text-danielwilson {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -336,7 +337,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-}
+  }
 
 .footer-logo {
   font-family: "Raleway";
