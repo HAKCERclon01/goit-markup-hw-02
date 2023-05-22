@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
 }
 :root {
   color: #2e2f42;
@@ -295,6 +296,9 @@ body {
   background: #2e2f42;
 }
 
+body{
+    font-family: "Roboto", sans-serif
+}
 .header-logo-p {
   font-family: "Raleway";
   font-style: normal;
@@ -349,7 +353,7 @@ body {
 }
 
 .button-all-p {
-  font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -507,7 +511,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -559,7 +563,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
