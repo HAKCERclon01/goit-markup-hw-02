@@ -3,16 +3,19 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
+
 :root {
   --dtext-color: #2e2f42;
   --ltext-color: #434455;
   --font-family: "Roboto";
   --font-family: "Raleway";
 }
+
 span {
   color: #2e2f42;
   text-decoration: none;
 }
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -25,15 +28,16 @@ span {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.studio-link {
+
+.studio-link{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.contacts-link {
-  font-weight: 500;
+.contacts-link{
+    font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -47,41 +51,33 @@ span {
   color: #2e2f42;
 }
 
-.contacts-link:focus {
+.contacts-link:focus{
   color: #404bbf;
 }
-.header-call:focus {
+.header-call:focus{
   color: #404bbf;
 }
-.header-mail:focus {
+.header-mail:focus{
   color: #404bbf;
 }
-.studio-link:focus {
+.studio-link:focus{
   color: #404bbf;
 }
 .header-link:focus {
   color: #404bbf;
 }
 
-.studio:hover {
+.studio:hover{
   color: #404bbf;
 }
-.portfolio:hover {
+.portfolio:hover{
   color: #404bbf;
 }
 .contacts:hover {
   color: #404bbf;
 }
-.header-nav {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.header-address {
+
+.header-nav{
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -90,7 +86,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-link {
+.header-address{
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -99,15 +95,64 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.header-link{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.about-subtitle-strategy{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.about-subtitle-punctuality{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.about-text-strategy{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.about-item-punctuality{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.list-style .about-text-punctuality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .hero {
   font-family: "Roboto";
   background: #2e2f42;
-}
-.header-link:hover {
-  color: #404bbf;
-}
-.header-link:focus {
-  color: #404bbf;
 }
 
 .hero-tagline {
@@ -133,73 +178,6 @@ span {
   color: #ffffff;
 }
 
-.about-subtitle-strategy {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-text-strategy {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.about-item-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.list-style .about-text-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.about-subtitle-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-text-strategy {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
 .about-item-punctuality {
   font-family: "Roboto";
