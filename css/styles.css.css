@@ -49,6 +49,12 @@ span{
 .contacts-link:focus {
   color: #404bbf;
 }
+.header-call:focus{
+  color: #404bbf
+}
+.header-mail:focus{
+  color: #404bbf
+}
 .studio-link:focus{
   color: #404bbf;
 }
@@ -166,7 +172,7 @@ span{
   letter-spacing: 0.02em;
   color: #2e2f42;
   }
-  
+  .list-style
   .about-text-punctuality {
   font-family: "Roboto";
   font-style: normal;
@@ -277,7 +283,6 @@ span{
   text-transform: capitalize;
   color: #2e2f42;
   }
-  
   .about-img {
   border: 1px solid #e7e9fc;
   }
@@ -455,15 +460,14 @@ body {
   color: #434455;
 }
 .link{
-  text-decoration:none
-}
-.link{
+  text-decoration: none;
   text-decoration: none;
 }
 .list-style{
   list-style: none;
-  text-decoration: none;
+  text-decoration: none;;
 }
+
 
 
 .link:hover {
