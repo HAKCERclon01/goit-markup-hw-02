@@ -9,8 +9,8 @@ body {
   --font-family: "Roboto";
   --font-family: "Raleway";
 }
-span{
-  color: #2e2f42 ;
+span {
+  color: #2e2f42;
   text-decoration: none;
 }
 .logo {
@@ -25,49 +25,51 @@ span{
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.studio-link{
+.studio-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.contacts-link{
+.contacts-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-link{
+.portfolio-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .contacts-link:focus {
   color: #404bbf;
 }
-.header-call:focus{
-  color: #404bbf
+.header-call:focus {
+  color: #404bbf;
 }
-.header-mail:focus{
-  color: #404bbf
+.header-mail:focus {
+  color: #404bbf;
 }
-.studio-link:focus{
+.studio-link:focus {
   color: #404bbf;
 }
 .header-link:focus {
   color: #404bbf;
 }
-.studio:hover{
+
+.studio:hover {
   color: #404bbf;
 }
-.portfolio:hover{
+.portfolio:hover {
   color: #404bbf;
 }
-.contacts:hover{
+.contacts:hover {
   color: #404bbf;
 }
 .header-nav {
@@ -79,7 +81,6 @@ span{
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
 .header-address {
   font-family: "Roboto";
   font-style: normal;
@@ -87,9 +88,8 @@ span{
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 0.02em;
-  color:#434455;
+  color: #434455;
 }
-
 .header-link {
   font-family: "Roboto";
   font-style: normal;
@@ -97,17 +97,17 @@ span{
   font-size: 16px;
   line-height: 1.5em;
   letter-spacing: 0.02em;
-  color:#434455;
+  color: #434455;
 }
 .hero {
   font-family: "Roboto";
   background: #2e2f42;
 }
-.header-link:hover{
+.header-link:hover {
   color: #404bbf;
 }
-.header-link:focus{
-  color: #404bbf 
+.header-link:focus {
+  color: #404bbf;
 }
 
 .hero-tagline {
@@ -161,9 +161,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .about-item-punctuality {
+}
+
+.about-item-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -171,9 +171,8 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  .list-style
-  .about-text-punctuality {
+}
+.list-style .about-text-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -181,8 +180,8 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  .about-subtitle-punctuality {
+}
+.about-subtitle-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -190,9 +189,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .about-text-strategy {
+}
+
+.about-text-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -200,9 +199,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .about-item-punctuality {
+}
+
+.about-item-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -210,9 +209,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .about-text-punctuality {
+}
+
+.about-text-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -220,9 +219,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .about-subtitle-punctuality {
+}
+
+.about-subtitle-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -230,9 +229,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .about-text-diligence {
+}
+
+.about-text-diligence {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -240,9 +239,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .about-subtitle-diligence {
+}
+
+.about-subtitle-diligence {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -250,9 +249,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .about-subtitle-technologies {
+}
+
+.about-subtitle-technologies {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -260,9 +259,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .about-text-technologies {
+}
+
+.about-text-technologies {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -270,9 +269,9 @@ span{
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .aboutcan-tagline {
+}
+
+.aboutcan-tagline {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -282,36 +281,36 @@ span{
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  }
-  .about-img {
+}
+.about-img {
   border: 1px solid #e7e9fc;
-  }
-  
-  .team {
+}
+
+.team {
   background: #f4f4fd;
-  }
-  
-  .team-item-markguerrero {
+}
+
+.team-item-markguerrero {
   background: #ffffff;
-  }
-  
-  .team-item-tomford {
+}
+
+.team-item-tomford {
   background: #ffffff;
-  }
-  
-  .team-item-camilagarcia {
+}
+
+.team-item-camilagarcia {
   background: #ffffff;
-  }
-  
-  .team-item-danielwilson {
+}
+
+.team-item-danielwilson {
   background: #ffffff;
-  }
-  
-  .team-img-markguerrero {
+}
+
+.team-img-markguerrero {
   mix-blend-mode: normal;
-  }
-  
-  .team-subtitle-markguerrero {
+}
+
+.team-subtitle-markguerrero {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -320,9 +319,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .team-text-markguerrero {
+}
+
+.team-text-markguerrero {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -331,9 +330,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .team-subtitle-tomford {
+}
+
+.team-subtitle-tomford {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -342,9 +341,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .team-text-tomford {
+}
+
+.team-text-tomford {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -353,9 +352,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .team-subtitle-camilagarcia {
+}
+
+.team-subtitle-camilagarcia {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -364,9 +363,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .team-text-camilagarcia {
+}
+
+.team-text-camilagarcia {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -375,9 +374,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-  }
-  
-  .team-subtitle-danielwilson {
+}
+
+.team-subtitle-danielwilson {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -386,9 +385,9 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  }
-  
-  .team-text-danielwilson {
+}
+
+.team-text-danielwilson {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -397,7 +396,7 @@ span{
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
-  }
+}
 
 .footer-logo {
   font-family: "Raleway";
@@ -459,26 +458,24 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.link{
+.link {
   text-decoration: none;
   text-decoration: none;
 }
-.list-style{
+.list-style {
   list-style: none;
-  text-decoration: none;;
+  text-decoration: none;
 }
-
-
 
 .link:hover {
-  color: #404bbf
+  color: #404bbf;
 }
-.link:hover{
+.link:hover {
   color: #404bbf;
 }
 
 .footer-logo:hover {
-  color: #404bbf
+  color: #404bbf;
 }
 
 .footer-logo-p:hover {
