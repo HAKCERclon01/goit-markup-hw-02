@@ -70,26 +70,20 @@ span{
 .contacts-link:focus {
   color: #404bbf;
 }
+.studio-link:focus{
+  color: #404bbf;
+}
 .header-link:focus {
   color: #404bbf;
 }
 .studio:hover{
   color: #404bbf;
 }
-.studio:focus{
-  color: #404bbf 
-}
 .portfolio:hover{
   color: #404bbf;
 }
-.portfolio:focus{
-  color: #404bbf 
-}
 .contacts:hover{
   color: #404bbf;
-}
-.contacts:focus{
-  color: #404bbf 
 }
 .header-nav {
   font-family: "Roboto";
