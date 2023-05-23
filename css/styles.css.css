@@ -29,15 +29,15 @@ span {
   color: #4d5ae5;
 }
 
-.studio-link{
+.studio-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.contacts-link{
-    font-weight: 500;
+.contacts-link {
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -51,33 +51,33 @@ span {
   color: #2e2f42;
 }
 
-.contacts-link:focus{
+.contacts-link:focus {
   color: #404bbf;
 }
-.header-call:focus{
+.header-call:focus {
   color: #404bbf;
 }
-.header-mail:focus{
+.header-mail:focus {
   color: #404bbf;
 }
-.studio-link:focus{
+.studio-link:focus {
   color: #404bbf;
 }
 .header-link:focus {
   color: #404bbf;
 }
 
-.studio:hover{
+.studio:hover {
   color: #404bbf;
 }
-.portfolio:hover{
+.portfolio:hover {
   color: #404bbf;
 }
 .contacts:hover {
   color: #404bbf;
 }
 
-.header-nav{
+.header-nav {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -86,7 +86,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-address{
+.header-address {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -95,7 +95,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-link{
+.header-link {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -104,7 +104,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-subtitle-strategy{
+.about-subtitle-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -113,7 +113,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-subtitle-punctuality{
+.about-subtitle-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -122,7 +122,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-text-strategy{
+.about-text-strategy {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -131,7 +131,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-item-punctuality{
+.about-item-punctuality {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -177,7 +177,6 @@ span {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-
 
 .about-item-punctuality {
   font-family: "Roboto";
