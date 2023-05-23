@@ -32,39 +32,18 @@ span{
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.contacts-link {
+.contacts-link{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02;
   color: #2e2f42;
 }
-.contacts {
+.portfolio-link{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.portfolio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.portfolio-link {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.studio{
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02;
   color: #2e2f42;
 }
 .contacts-link:focus {
