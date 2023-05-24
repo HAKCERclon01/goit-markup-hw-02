@@ -164,6 +164,16 @@ span {
   color: #2e2f42;
 }
 
+.about-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .aboutcan-text {
   font-family: "Roboto";
   font-style: normal;
