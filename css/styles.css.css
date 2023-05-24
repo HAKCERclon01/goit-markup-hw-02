@@ -89,15 +89,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-subtitle-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
+
 .about-text-strategy {
   font-family: "Roboto";
   font-style: normal;
@@ -162,7 +154,7 @@ span {
   color: #ffffff;
 }
 
-.about-item-punctuality {
+.about-item {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -172,57 +164,7 @@ span {
   color: #2e2f42;
 }
 
-.about-text-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.about-subtitle-punctuality {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-text-diligence {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.about-subtitle-diligence {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-technologies {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-text-technologies {
+.about-text {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -347,7 +289,13 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
+.about-tagline{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 .team-text-danielwilson {
   font-family: "Roboto";
   font-style: normal;
@@ -484,7 +432,6 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
-
 .button-marketing-p {
   font-family: "Roboto";
   font-style: normal;
