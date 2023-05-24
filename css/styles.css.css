@@ -35,15 +35,7 @@ span {
   color: #2e2f42;
 }
 
-.studio-link:focus {
-  color: #404bbf;
-}
-
-.contacts-link:focus {
-  color: #404bbf;
-}
-
-.portfolio-link:focus {
+.main-link:focus {
   color: #404bbf;
 }
 
