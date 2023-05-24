@@ -148,7 +148,6 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-display
 .hero {
   font-family: "Roboto";
   background: #2e2f42;
@@ -177,7 +176,6 @@ display
   font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
-align-items
 .hero-button:hover {
   background-color: #404BBF;
   color: #ffffff;
@@ -390,7 +388,6 @@ align-items
   font-weight: 800;
   font-size: 18px;
   line-height: 1.3em;
-  display: flex;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -473,7 +470,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
-  display: flex;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
@@ -485,7 +481,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
-  display: flex;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
@@ -497,7 +492,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
-  display: flex;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
@@ -509,7 +503,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
-  display: flex;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
@@ -521,7 +514,6 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
-  display: flex;
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
@@ -662,8 +654,6 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
