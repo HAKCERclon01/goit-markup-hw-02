@@ -52,13 +52,7 @@ span {
   color: #404bbf;
 }
 
-.header-link:hover {
-  color: #404bbf;
-}
 
-.header-link:focus {
-  color: #404bbf;
-}
 .header-nav {
   font-family: "Roboto";
   font-style: normal;
