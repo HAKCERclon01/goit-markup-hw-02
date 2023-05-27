@@ -52,7 +52,13 @@ span {
   color: #404bbf;
 }
 
+.header-link.link:hover {
+  color: #404bbf;
+}
 
+.header-link.link:focus {
+  color: #404bbf;
+}
 .header-nav {
   font-family: "Roboto";
   font-style: normal;
@@ -164,12 +170,6 @@ span {
   color: #2e2f42;
 }
 
-.header-link:focus{
-  color: #404bbf
-}
-.header-link:focus {
-  color: #404bbf;
-}
 .about-text {
   font-family: "Roboto";
   font-style: normal;
@@ -179,16 +179,11 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.link:focus{
-  color: #404bbf;
-}
-.list-style:focus{
-  color: #404bbf;
-}
+
+header-link
 .about-subtitle{
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
