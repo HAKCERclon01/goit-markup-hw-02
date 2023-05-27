@@ -386,6 +386,9 @@ body {
 .link:focus, .link:hover{
   color: #404bbf;
 }
+.header-link:hover{
+  color: #404bbf;
+}
 .header-link:focus, .header-link:hover{
   color: #404bbf;
 }
