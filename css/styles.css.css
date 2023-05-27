@@ -398,6 +398,18 @@ body {
 .header-mail:focus{
   color: #404bbf;
 }
+.link:hover{
+  color: #404bbf;
+}
+.header-link:hover{
+  color: #404bbf;
+}
+.list-style:hover{
+  color: #404bbf;
+}
+.header-mail:hover{
+  color: #404bbf;
+}
 .footer-logo:hover {
   color: #404bbf;
 }
