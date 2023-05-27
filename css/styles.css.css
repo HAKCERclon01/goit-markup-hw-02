@@ -382,16 +382,16 @@ body {
   color: #404bbf;
 }
 .link:hover{
-  color: var(--dblue)
+  color: #404BBF;
 }
 .header-link:hover{
   color: #404bbf;
 }
 .header-link:focus{
-  color: var(--dblue)
+  color: #404BBF;
 }
 .header-link:hover {
-  color: red
+  color: #404BBF;
 }
 .footer-logo:hover {
   color: #404bbf;
