@@ -7,9 +7,10 @@ body {
 :root {
   --dtext-color: #2e2f42;
   --ltext-color: #434455;
-  --font-family: "Roboto";
-  --font-family: "Raleway";
-}
+  --dblue: #404bbf;
+  --roboto: "Roboto";
+  --rakeway: "Raleway";
+  }
 
 span {
   color: #2e2f42;
@@ -383,20 +384,35 @@ body {
   text-decoration: none;
 }
 
-.link:focus, .link:hover{
+.link:focus{
   color: #404bbf;
+}
+.link:hover{
+  color: var(--dblue)
 }
 .header-link:hover{
   color: #404bbf;
 }
-.header-link:focus, .header-link:hover{
+.header-link:focus{
+  color: var(--dblue)
+}
+.header-link:focus{
   color: #404bbf;
 }
-.list-style:focus, .list-style:hover{
+.header-link:hover{
+  color: var(--dblue)
+}
+.list-style:focus{
   color: #404bbf;
+}
+.list-style:hover{
+  color: var(--dblue)
 }
 .header-mail:focus, .header-mail:hover{
   color: #404bbf;
+}
+.header-mail:hover{
+  color: var(--dblue)
 }
 .footer-logo:hover {
   color: #404bbf;
