@@ -389,7 +389,15 @@ body {
 .link:focus{
   color: #404bbf;
 }
-
+.header-link:focus{
+  color: #404bbf;
+}
+.list-style:focus{
+  color: #404bbf;
+}
+.header-mail:focus{
+  color: #404bbf;
+}
 .footer-logo:hover {
   color: #404bbf;
 }
