@@ -197,19 +197,7 @@ span {
   background: #f4f4fd;
 }
 
-.team-item-markguerrero {
-  background: #ffffff;
-}
-
-.team-item-tomford {
-  background: #ffffff;
-}
-
-.team-item-camilagarcia {
-  background: #ffffff;
-}
-
-.team-item-danielwilson {
+.team-item {
   background: #ffffff;
 }
 
@@ -217,95 +205,21 @@ span {
   mix-blend-mode: normal;
 }
 
-.team-subtitle-markguerrero {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2em;
+.team-subtitle{
+  font-size: 36px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
-.team-text-markguerrero {
+.team-text{
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-subtitle-tomford {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.team-text-tomford {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-subtitle-camilagarcia {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-text-camilagarcia {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.team-subtitle-danielwilson {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.about-tagline{
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.team-text-danielwilson {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.2em;
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
@@ -399,23 +313,7 @@ body {
 
 .footer-logo-p:hover {
   color: #4d5ae5;
-}
-.team-subtitle{
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-.team-tagline{
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
+} 
 .button-all-p {
   font-family: "Roboto", sans-serif;
   font-style: normal;
