@@ -335,6 +335,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.header-link:focus {
+  color: #404bbf;
+}
+
 .header-logo-p {
   font-family: "Raleway";
   font-style: normal;
