@@ -167,6 +167,9 @@ span {
 .header-link:focus{
   color: #404bbf
 }
+.header-link:focus {
+  color: #404bbf;
+}
 .about-text {
   font-family: "Roboto";
   font-style: normal;
