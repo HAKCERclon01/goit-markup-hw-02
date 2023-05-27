@@ -166,6 +166,7 @@ span {
 .about-subtitle{
   font-family: "Roboto";
   font-style: normal;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -443,6 +444,7 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
+about-tagline
 .button-marketing-p {
   font-family: "Roboto";
   font-style: normal;
