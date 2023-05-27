@@ -192,9 +192,6 @@ span {
 .about-img {
   border: 1px solid #e7e9fc;
 }
-.header-link:active {
-  color: #404bbf;
-}
 .team {
   background: #f4f4fd;
 }
@@ -341,10 +338,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.header-link:focus {
-  color: #404bbf;
-}
-
 .header-logo-p {
   font-family: "Raleway";
   font-style: normal;
@@ -394,12 +387,6 @@ body {
   color: #404bbf;
 }
 .header-link:focus{
-  color: var(--dblue)
-}
-.header-link:focus{
-  color: #404bbf;
-}
-.header-link:hover{
   color: var(--dblue)
 }
 .list-style:focus{
@@ -624,9 +611,6 @@ link
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-.header-link:hover {
-  color: #4d5ae5;
 }
 .footer-logo:focus {
   color: #4d5ae5;
