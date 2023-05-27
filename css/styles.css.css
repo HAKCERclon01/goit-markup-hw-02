@@ -391,7 +391,7 @@ body {
   color: var(--dblue)
 }
 .header-link:hover {
-  color: red;
+  color: red
 }
 .footer-logo:hover {
   color: #404bbf;
