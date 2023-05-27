@@ -57,6 +57,9 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.header-address:focus{
+  color: #404BBF;
+}
 .header-link {
   font-family: "Roboto";
   font-style: normal;
