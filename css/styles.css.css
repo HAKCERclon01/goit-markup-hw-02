@@ -39,20 +39,6 @@ span {
   color: #404bbf;
 }
 
-.header-call:focus {
-  color: #404bbf;
-}
-.header-mail:focus {
-  color: #404bbf;
-}
-.studio-link:focus {
-  color: #404bbf;
-}
-.header-link:focus {
-  color: #404bbf;
-}
-
-
 .header-nav {
   font-family: "Roboto";
   font-style: normal;
@@ -173,8 +159,6 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-header-link
 .about-subtitle{
   font-family: "Roboto";
   font-style: normal;
@@ -390,9 +374,6 @@ body {
   text-decoration: none;
 }
 
-.link:hover {
-  color: #404bbf;
-}
 .link:hover {
   color: #404bbf;
 }
