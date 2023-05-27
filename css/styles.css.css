@@ -383,31 +383,16 @@ body {
   text-decoration: none;
 }
 
-.link:hover {
+.link:focus, .link:hover{
   color: #404bbf;
 }
-.link:focus{
+.header-link:focus, .header-link:hover{
   color: #404bbf;
 }
-.header-link:focus{
+.list-style:focus, .list-style:hover{
   color: #404bbf;
 }
-.list-style:focus{
-  color: #404bbf;
-}
-.header-mail:focus{
-  color: #404bbf;
-}
-.link:hover{
-  color: #404bbf;
-}
-.header-link:hover{
-  color: #404bbf;
-}
-.list-style:hover{
-  color: #404bbf;
-}
-.header-mail:hover{
+.header-mail:focus, .header-mail:hover{
   color: #404bbf;
 }
 .footer-logo:hover {
