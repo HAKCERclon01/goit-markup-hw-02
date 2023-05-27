@@ -389,17 +389,8 @@ body {
 .header-link:focus{
   color: var(--dblue)
 }
-.list-style:focus{
-  color: #404bbf;
-}
-.list-style:hover{
-  color: var(--dblue)
-}
-.header-mail:focus{
-  color: #404bbf;
-}
-.header-mail:hover{
-  color: var(--dblue)
+.header-link:hover {
+  color: red;
 }
 .footer-logo:hover {
   color: #404bbf;
