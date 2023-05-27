@@ -408,7 +408,7 @@ body {
 .list-style:hover{
   color: var(--dblue)
 }
-.header-mail:focus, .header-mail:hover{
+.header-mail:focus{
   color: #404bbf;
 }
 .header-mail:hover{
