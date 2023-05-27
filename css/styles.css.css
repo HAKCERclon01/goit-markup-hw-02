@@ -179,6 +179,12 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.link:focus{
+  color: #404bbf;
+}
+.list-style:focus{
+  color: #404bbf;
+}
 .about-subtitle{
   font-family: "Roboto";
   font-style: normal;
