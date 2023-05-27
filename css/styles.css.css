@@ -10,7 +10,7 @@ body {
   --dblue: #404bbf;
   --roboto: "Roboto";
   --rakeway: "Raleway";
-  }
+}
 
 span {
   color: #2e2f42;
@@ -28,7 +28,7 @@ span {
   color: #4d5ae5;
 }
 
-.main-link{
+.main-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5em;
@@ -58,8 +58,8 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-address:focus{
-  color: #404BBF;
+.header-address:focus {
+  color: #404bbf;
 }
 .header-link {
   font-family: "Roboto";
@@ -131,16 +131,16 @@ span {
   line-height: 1.5em;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background-color: #4D5AE5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   cursor: pointer;
 }
 .hero-button:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
   color: #ffffff;
 }
 .hero-button:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
   color: #ffffff;
 }
 
@@ -163,14 +163,14 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.about-subtitle{
+.about-subtitle {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:#2e2f42
+  color: #2e2f42;
 }
 .about-tagline {
   font-family: "Roboto";
@@ -188,7 +188,7 @@ span {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:#2e2f42
+  color: #2e2f42;
 }
 .about-img {
   border: 1px solid #e7e9fc;
@@ -205,7 +205,8 @@ span {
   mix-blend-mode: normal;
 }
 
-.team-subtitle{
+.team-subtitle {
+  font-family: "Roboto";
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -213,15 +214,16 @@ span {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-tagline{
+.team-tagline {
+  font-family: "Roboto";
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color:  #2e2f42;
+  color: #2e2f42;
 }
-.team-text{
+.team-text {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
@@ -299,20 +301,20 @@ body {
   text-decoration: none;
 }
 
-.link:focus{
+.link:focus {
   color: #404bbf;
 }
-.link:hover{
-  color: #404BBF;
-}
-.header-link:hover{
+.link:hover {
   color: #404bbf;
-}
-.header-link:focus{
-  color: #404BBF;
 }
 .header-link:hover {
-  color: #404BBF;
+  color: #404bbf;
+}
+.header-link:focus {
+  color: #404bbf;
+}
+.header-link:hover {
+  color: #404bbf;
 }
 .footer-logo:hover {
   color: #404bbf;
@@ -320,7 +322,7 @@ body {
 
 .footer-logo-p:hover {
   color: #4d5ae5;
-} 
+}
 .button-all-p {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -364,8 +366,7 @@ body {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
-about-tagline
-.button-marketing-p {
+about-tagline .button-marketing-p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -515,8 +516,7 @@ about-tagline
   text-transform: uppercase;
   color: #4d5ae5;
 }
-link
-.footer-text-p {
+link .footer-text-p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
