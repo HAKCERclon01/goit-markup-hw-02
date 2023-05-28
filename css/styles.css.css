@@ -256,6 +256,7 @@ footer-logo
   text-transform: capitalize;
   color: #2e2f42;
 }
+button-all-p
 .team-text {
   font-family: "Roboto";
   font-style: normal;
@@ -347,7 +348,7 @@ body {
 .logo-p:hover {
   color: #4d5ae5;
 }
-.button-all-p {
+.button-p{
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -356,8 +357,16 @@ body {
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
+  background-color: #F4F4FD;
 }
-
+.button-p:hover{
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+.button-p:focus{
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
 .button-web-site-p {
   font-family: "Roboto";
   font-style: normal;
