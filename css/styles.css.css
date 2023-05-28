@@ -267,17 +267,6 @@ footer-logo
   color: #434455;
 }
 
-.footer-logo {
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  text-decoration: none
-}
 .footer-text {
   font-family: "Roboto";
   font-style: normal;
@@ -351,11 +340,11 @@ body {
 .header-link:hover {
   color: #404bbf;
 }
-.footer-logo:hover {
+.logo:hover {
   color: #404bbf;
 }
 
-.footer-logo-p:hover {
+.logo-p:hover {
   color: #4d5ae5;
 }
 .button-all-p {
