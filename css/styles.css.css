@@ -238,12 +238,11 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-footer-logo
 .team-text{
   font-family: "Roboto";
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -256,7 +255,6 @@ footer-logo
   text-transform: capitalize;
   color: #2e2f42;
 }
-button-all-p
 .team-text {
   font-family: "Roboto";
   font-style: normal;
@@ -367,6 +365,7 @@ body {
   color: #FFFFFF;
   background-color: #404BBF;
 }
+team-text
 .button-web-site-p {
   font-family: "Roboto";
   font-style: normal;
