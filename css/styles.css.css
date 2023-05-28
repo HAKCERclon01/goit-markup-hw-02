@@ -205,7 +205,7 @@ span {
 .team-img-markguerrero {
   mix-blend-mode: normal;
 }
-.aboutcan-tagline{
+.aboutcan-tagline {
   font-family: "Roboto";
   font-size: 36px;
   line-height: 1.11;
@@ -223,7 +223,7 @@ span {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.team-subtitl{
+.team-subtitl {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 20px;
@@ -231,7 +231,7 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-tagline{
+.team-tagline {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 20px;
@@ -239,7 +239,7 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-text{
+.team-text {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 20px;
@@ -275,7 +275,7 @@ span {
   line-height: 1.5em;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .footer {
@@ -347,7 +347,7 @@ body {
 .logo-p:hover {
   color: #4d5ae5;
 }
-.button-p{
+.button-p {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -356,18 +356,17 @@ body {
   text-align: center;
   letter-spacing: 0.04em;
   color: #4d5ae5;
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
-.button-p:hover{
-  color: #FFFFFF;
-  background-color: #404BBF;
+.button-p:hover {
+  color: #ffffff;
+  background-color: #404bbf;
 }
-.button-p:focus{
-  color: #FFFFFF;
-  background-color: #404BBF;
+.button-p:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
-team-text
-.button-web-site-p {
+team-text .button-web-site-p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -539,16 +538,6 @@ about-tagline .button-marketing-p {
 .about-freshcoffee-p {
   background: #ffffff;
 }
-.footer-logo-p {
-  font-family: "Raleway";
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-}
 .footer-text-p {
   font-family: "Roboto";
   font-style: normal;
@@ -564,9 +553,12 @@ about-tagline .button-marketing-p {
 .footer-logo-p:focus {
   color: #4d5ae5;
 }
-.span-footer{
+.span-footer {
   color: #f4f4fd;
 }
-.logo-footer{
-  color: #F4F4FD;
+.logo-footer {
+  color: #f4f4fd;
+}
+.footer-p {
+  color: #2e2f42;
 }
