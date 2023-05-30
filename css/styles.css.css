@@ -399,7 +399,7 @@ team-text .button-web-site-p {
   letter-spacing: 0.04em;
   color: #4d5ae5;
 }
-about-tagline .button-marketing-p {
+.button-marketing-p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -410,93 +410,15 @@ about-tagline .button-marketing-p {
   color: #4d5ae5;
 }
 
-.about-subtitle-bankingapp-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
 
-.about-subtitle-cashlesspayment-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-meditationapp-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-taxiservice-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-screenillustrations-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-onlinecourses-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-instagramstories-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.about-subtitle-organicfood-p {
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.5em;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
 .about-subtitle-freshcoffee-p {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5em;
+  line-height: 1.2em;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color:  #2e2f42;
 }
 
 .about-text-p {
