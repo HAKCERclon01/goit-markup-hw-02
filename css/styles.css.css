@@ -420,6 +420,15 @@ team-text .button-web-site-p {
   letter-spacing: 0.02em;
   color:  #2e2f42;
 }
+.about-subtitle-bank-p{
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2em;
+  letter-spacing: 0.02em;
+  color:  #2e2f42;
+}
 
 .about-text-p {
   font-family: "Roboto";
